@@ -1,0 +1,4 @@
+telebot
+pymongo
+Flask
+gunicorn
